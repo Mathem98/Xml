@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aktivnosti>
+  <aktivnost id="0">
+    <Naslov>XML Vježba</Naslov>
+    <Datum>2022-05-29</Datum>
+    <Opis>Primjer opisa aktivnosti!</Opis>
+  </aktivnost>
+</aktivnosti>
